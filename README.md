@@ -3,7 +3,7 @@
 
 crawl high resolution detail image and download.
 
-##How to use
+# How to use
 
 1.copy gallery URL in gallery page like :E-H/g/1234/example/
 
